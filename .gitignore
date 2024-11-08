@@ -1,0 +1,11 @@
+
+/BLL/bin
+/.vs
+BLL/obj/BLL.csproj.nuget.dgspec.json
+BLL/obj/BLL.csproj.nuget.g.props
+BLL/obj/BLL.csproj.nuget.g.targets
+/BLL/obj
+/DAL/bin
+DAL/Migrations/20241102010928_InitialCreate.cs
+DAL/Migrations/20241102010928_InitialCreate.Designer.cs
+/DAL/Migrations
